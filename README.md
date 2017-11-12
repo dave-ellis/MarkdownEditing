@@ -69,6 +69,8 @@ You can access most features through Command Palette. You can launch it from `To
 
 ### Wiki features
 
+See the [[WikiFeatures]] page.
+
 Wiki links are defined by surrounding a (wiki) word with double square brackets, for example:
 
     [[SampleWikiPage]]
